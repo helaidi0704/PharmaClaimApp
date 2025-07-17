@@ -1,0 +1,1 @@
+// ClaimChat component
